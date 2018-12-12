@@ -4,7 +4,7 @@
 
 ## 1. 플러그인 설치
 
-(Slack + GitHub)[[https://github.com/marketplace/slack-github](https://github.com/marketplace/slack-github)]
+[Slack + GitHub](https://github.com/marketplace/slack-github)
 
 ## 2. 슬랙 연결
 
